@@ -17,4 +17,7 @@ To design and implement a Python function for calculating the volume of a cylind
 
 ### OUTPUT:
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/24753a50-d896-46e4-a87e-303ded38fb9e" />
+
+
 ### RESULT:
